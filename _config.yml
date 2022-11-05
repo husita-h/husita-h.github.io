@@ -22,8 +22,8 @@ title: husita-hhp
 email: taisei.fukushi1129@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   husita-h's HP
-baseurl: https://husita-h.github.io # the subpath of your site, e.g. /blog
-url: "https://github.com/husita-h/husita-h.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  husita-h
 twitter_username: jekyllrb
 
@@ -52,4 +52,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+repository: https://github.com/husita-h/husita-h.github.io
 logo: /assets/image/logo.png
