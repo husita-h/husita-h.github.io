@@ -25,13 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  husita-h
+twitter_username: jekyllrb
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
-# theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,14 +52,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-logo: /assets/img/logo.png
-show_downloads: true
-social:
-  twitter:
-    user: husita_h
-  github:
-    user: husita-h
-    repository_url: https://github.com/husita-h/husita-hhp
-    owner_url: https://github.com/husita-h
-    owner_name: husita-h
-    zip_url: https://github.com/husita-h/husita-hhp/archive/refs/heads/main.zip
+repository: husita-h/husita-h.github.io
+logo: /assets/image/logo.png
