@@ -52,5 +52,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-repository: https://github.com/husita-h/husita-h.github.io
+repository: husita-h/husita-h.github.io
 logo: /assets/image/logo.png
